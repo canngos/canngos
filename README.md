@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my final project using Spring and Python.<br>🌱 I’m currently learning Backend software and AI methodology.<br>💬 Ask me about Microservice architecture, Java, Web MVC Services<br>⚡ Fun fact I solve algorithm questions in HackRank. My link is : https://www.hackerrank.com/canngos
+🔭 I’m developing projects in Java using Spring Framework to improve myself daily in this area.<br>🌱 I’m learning about the Backend area and AI methodology.<br>💬 Ask me about Microservice architecture, Java, Web Services<br>⚡ Fun fact, I solve algorithm questions in HackRank. My link is: https://www.hackerrank.com/canngos
 
 
 ## 🌐 Socials:
