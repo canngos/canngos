@@ -2,7 +2,7 @@
 
 ## 💫 About Me:
 * 🎓 **MSc Computer Science Student** at the University of Oulu, residing in Tampere, Finland.
-* 💻 **Software Engineer** with ~3 years of professional experience, specializing in Backend Architecture, Distributed Systems, and Full-stack Development.
+* 💻 **Software Engineer** with ~4 years of professional experience, specializing in Backend Architecture, Distributed Systems, and Full-stack Development.
 * 🔬 **Research Focus:** Human-Technology Interaction (HTI), Persuasive Systems Design (PSD), and mitigating digital distraction.
 * 🔭 **Currently working on:** Scenario-based evaluations of PSD methods with domain experts to create actionable guidance for the software industry.
 * 💬 **Ask me about:** Microservices, Distributed Consensus Algorithms (Raft/Paxos), Java, and Behavioral Tech Design.
