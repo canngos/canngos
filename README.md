@@ -15,7 +15,7 @@
 * 🏥 Distributed Electronic Health Record (EHR) System: A decentralized architecture built utilizing Python, Docker, gRPC, and HTML.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/can-baturlar-82283578/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/can-baturlar/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23DD0031.svg?logo=Gmail&logoColor=white)](mailto:cbaturlar@gmail.com?)
 
 ## 💻 Tech Stack
