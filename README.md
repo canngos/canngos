@@ -8,7 +8,6 @@
 * 💬 **Ask me about:** AI agent authorization, secure tool use, microservices, distributed systems, Java/Spring Boot, and AI-assisted development.
 
 ## 🏆 Selected Portfolio Projects
-*(Demonstrating engineering capabilities for HTI, AI, and System Architecture)*
 * 🔬 agentic-authority-lab — MSc Thesis (Ongoing): Investigating task-scoped runtime authorization for AI agents, evaluating how tool permissions, argument constraints, and task-specific policies can limit unauthorized actions.
 * 🛡️ AIGatekeeper: A self-hosted Go proxy that detects and blocks secrets and personal data in GenAI requests, with configurable policies, audit logs, and a React/TypeScript console.
 * 🤖 MACRO: An NLP course project comparing a single LLM judge with a multi-agent evaluation approach using Python and AG2.
